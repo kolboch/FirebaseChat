@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">FireChat</string>
+    <string name="chatButton">GO TO CHAT</string>
+    <string name="hint_type_text">Type text</string>
+    <string name="user_welcome">Hello %1$s!</string>
+    <string name="logged_in_as">Currently logged in as %1$s.</string>
+    <string name="logged_off">Logged off</string>
+    <string name="successful_log_in">Successfully logged in!</string>
+    <string name="failure_log_in">Couldn\'t sign in you. Please try again later</string>
 </resources>
