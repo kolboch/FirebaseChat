@@ -7,4 +7,8 @@
     <string name="logged_off">Logged off</string>
     <string name="successful_log_in">Successfully logged in!</string>
     <string name="failure_log_in">Couldn\'t sign in you. Please try again later</string>
+    <string name="log_in">LOG IN</string>
+    <string name="already_logged_in">Already logged in!</string>
+    <string name="log_out">LOG OUT</string>
+    <string name="successful_log_out">Successfully logged out!</string>
 </resources>
