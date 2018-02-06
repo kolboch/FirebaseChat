@@ -1,4 +1,4 @@
-package com.kb.firechat
+package com.kb.firechat.activities
 
 import android.app.Activity
 import android.content.Intent
@@ -8,6 +8,7 @@ import android.view.View
 import android.widget.Toast
 import com.firebase.ui.auth.AuthUI
 import com.google.firebase.auth.FirebaseAuth
+import com.kb.firechat.R
 import kotlinx.android.synthetic.main.activity_main.*
 
 const val SIGN_IN_REQUEST_CODE = 7009
